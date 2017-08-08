@@ -1044,7 +1044,7 @@ h5.project-title{
 
 /* Hero 2 */
 .hero-2-homepage-1{
-	background-image: url(../images/slider/slide-7-fw.jpg);
+	background-image: url(../img/review-bg.jpg);
 }
 
 /* Hero 4 */
@@ -1124,10 +1124,10 @@ h5.project-title{
 	background-image: url(../images/generic/hero-half-5.jpg);
 }
 .hero-5-about-2 > .row:after{
-	background-image: url(../images/team/hero-half-2.jpg);
+	background-image: url(../img/agency-bg.jpg);
 }
 .hero-5-about-3 > .row:after{
-	background-image: url(../images/team/hero-half-3.jpg);
+	background-image: url(../img/agency-bg.jpg);
 }
 
 /* Stat Section */
