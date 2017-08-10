@@ -1293,7 +1293,7 @@ body.boxed [class*="hero-"] .column[class*="push-"] .split-hero-content .hero-co
 	height: 50rem;
 	text-align: left;
 	color: #fff;
-	background-image: url(../images/slider/slide-2-fs-hp.jpg);
+	background-image: url(../img/review-bg.jpg);
 	background-repeat: no-repeat;
 }
 .hero-2 h2,
@@ -1427,7 +1427,7 @@ body.boxed [class*="hero-"] .column[class*="push-"] .split-hero-content .hero-co
 .hero-5 > .row:after{
 	width: 50%;
 	height: 100%;
-	background-image: url(../images/slider/slide-9-fw.jpg);
+	background-image: url(../img/agency-bg.jpg);
 	background-repeat: no-repeat;
 	content: "";
 	position: absolute;
