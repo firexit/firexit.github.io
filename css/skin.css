@@ -1121,7 +1121,7 @@ h5.project-title{
 
 /* Hero Sections */
 .hero-5-about-1 > .row:after{
-	background-image: url(../images/generic/hero-half-5.jpg);
+	background-image: url(../img/agency-bg.jpg);
 }
 .hero-5-about-2 > .row:after{
 	background-image: url(../img/agency-bg.jpg);
@@ -2559,19 +2559,19 @@ only screen and (				min-resolution: 2dppx) {
 		background-image: url(../images/slider/slide-14-fs@2x.jpg);
 	}
 	.hero-2-homepage-1{
-		background-image: url(../images/slider/slide-7-fw@2x.jpg);
+		background-image: url(../img/review-bg.jpg);
 	}
 	.hero-4-homepage-1{
 		background-image: url(../images/slider/slide-1-fw@2x.jpg);
 	}
 	.hero-5-homepage-1 > .row:after{
-		background-image: url(../images/generic/hero-half-4@2x.jpg);
+		background-image: url(../img/review-bg.jpg);
 	}
 	.hero-5-homepage-2 > .row:after{
-		background-image: url(../images/generic/hero-half-2@2x.jpg);
+		background-image: url(../img/review-bg.jpg);
 	}
 	.hero-5-homepage-3 > .row:after{
-		background-image: url(../images/generic/hero-half-3@2x.jpg);
+		background-image: url(../img/review-bg.jpg);
 	}
 
 	/* About */
